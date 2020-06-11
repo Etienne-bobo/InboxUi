@@ -1,0 +1,26 @@
+{
+  "name": "InboxUi_tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/style.css -o public/build/style.css",
+    "watch": "postcss css/style.css -o public/build/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etienne-bobo/InboxUi_tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etienne-bobo/InboxUi_tailwind/issues"
+  },
+  "homepage": "https://github.com/Etienne-bobo/InboxUi_tailwind#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
