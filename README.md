@@ -1,1 +1,1 @@
-# InboxUi_tailwind
+# An inbox UI app using tailwind CSS
